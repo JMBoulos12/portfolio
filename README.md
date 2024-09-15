@@ -13,7 +13,7 @@
   </a>
 </p>
 
-![demo](![portfolio-old](https://github.com/user-attachments/assets/3d270f61-aa49-41de-a95c-f227747b5931)
+![demo](!(https://github.com/user-attachments/assets/3d270f61-aa49-41de-a95c-f227747b5931)
 )
 
 ## 🚨 Forking this repo (please read!)
@@ -26,7 +26,7 @@ Please also note that I did not build this site with the intention of it being a
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com) and [JMB](https://jmboulos.com/) for revising it. Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com) and [jmboulos.com](https://jmboulos.com/) for revising it. Thanks!
 
 ## 🛠 Installation & Set Up
 

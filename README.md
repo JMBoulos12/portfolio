@@ -13,7 +13,8 @@
   </a>
 </p>
 
-![og](https://github.com/user-attachments/assets/b29c5890-57b8-42ad-b4ca-e847a9c3fc52)
+![portfolio-old](https://github.com/user-attachments/assets/9a5859d3-a4a6-4305-b0f0-24816508cd84)
+
 
 
 ## 🚨 Forking this repo (please read!)

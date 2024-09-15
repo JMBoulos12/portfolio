@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  test.com - 
+  jmboulos.com - 
 </h1>
 <p align="center">
   The fourth iteration of <a href="" target="_blank">test.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
@@ -13,7 +13,8 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+![demo](![portfolio-old](https://github.com/user-attachments/assets/3d270f61-aa49-41de-a95c-f227747b5931)
+)
 
 ## 🚨 Forking this repo (please read!)
 
@@ -25,7 +26,7 @@ Please also note that I did not build this site with the intention of it being a
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com) and [JMB](https://jmboulos.com/) for revising it. Thanks!
 
 ## 🛠 Installation & Set Up
 
